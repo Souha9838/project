@@ -16,7 +16,20 @@ body {
   max-width: 100vw;
   overflow: hidden;
 }
+.section3 {
+  background-color: white;
+  max-height: 80vh;
+  display: flex;
+  padding-top: 10%;
+  max-width: 100vw;
+  overflow: hidden;
+}
 .aboutus {
+  text-align: center;
+  margin-left: 10%;
+  width: 50vw;
+}
+.signup {
   text-align: center;
   margin-left: 10%;
   width: 50vw;
@@ -92,7 +105,19 @@ a {
   left: 42%;
   border: 2px solid white;
 }
-
+.section3 {
+  background-color: white;
+  max-height: 80vh;
+  display: flex;
+  padding-top: 10%;
+  max-width: 100vw;
+  overflow: hidden;
+}
+.signup {
+  text-align: center;
+  margin-left: 10%;
+  width: 50vw;
+}
 @media screen and (max-width: 760px) {
   .nav-img {
     width: 50px;
